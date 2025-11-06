@@ -1,8 +1,5 @@
-import pdfplumber
 import re
-import pandas as pd
 from typing import Dict, List, Optional
-from pathlib import Path
 import json
 import os
 class Extractor:
